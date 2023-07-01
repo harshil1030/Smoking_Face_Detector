@@ -1,0 +1,7 @@
+train: "D:/Smoking_Face_Detector/dataset/train/images"
+val: "D:/Smoking_Face_Detector/dataset/val/images"
+test: "D:/Smoking_Face_Detector/dataset/test/images"
+
+nc: 2
+names: ['person', 'smoke']
+
